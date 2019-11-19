@@ -4,10 +4,10 @@
 git-curr-branch: lesson-4
 git-prev-branch: lesson-3
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson:
+lesson: https://learn.unity.com/tutorial/lesson-2-4-collision-decisions
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: The animals will spawn on a timed interval and walk down the screen, triggering a “Game Over” message if they make it past the player. If the player hits them with a projectile to feed them, they will be destroyed.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides: https://docs.google.com/presentation/d/1PSUZ0i_04a1xpbh-h-F-KGLwDsUXyPi5QoZjs-191FQ/edit?usp=sharing
 # Name and URL of repository holding the starter code for this assignment.
