@@ -7,7 +7,7 @@ layout: tabbed-assignment
 {% include time-estimate.html %}
 
 <p><details><summary>Start your notes.</b></summary>
-  
+
  - Start a page for this lesson in your notebook with a **title and date**.
  - Check you notes from the previous class to see where to start.
  - Review the [learning targets](learning-targets.html) to see what you should be focusing on learning and understanding.
@@ -32,7 +32,7 @@ layout: tabbed-assignment
 
   If necessary, create the **{{site.data.assignment.git-curr-branch}}** branch.
 {% endif %}
-    
+
 - Select the **Current Branch** drop down.
 - Click on the **New Branch** button.
 - Enter **{{site.data.assignment.git-curr-branch}}** in the **Name** field.
@@ -56,8 +56,8 @@ Work in a loop:
 - After completing the work for each video, commit your changes:
   - Save the scene in Unity and your scripts in Visual Studio Code, then
   - Go to **GitHub Desktop** - once you click on GitHub Desktop you should see a list of changed files.
-  
-  If you do not your first priority is to troubleshoot. The most likely cause is that you forgot to save. If that is not the problem, then it is likely that Unity and GitHub Desktop are looking at different folders. Fix that now. If you've just started on the project the easiest thing to do may be to start over.  
+
+  If you do not your first priority is to troubleshoot. The most likely cause is that you forgot to save. If that is not the problem, then it is likely that Unity and GitHub Desktop are looking at different folders. Fix that now. If you've just started on the project the easiest thing to do may be to start over.
   - Write a brief summary of what you did.
   - Click the **Commit** button.
 
@@ -76,6 +76,7 @@ After you have finished all of the videos for the lesson, do one final test to e
 - Push your changes to GitHub.
 
   After pushing, use the **View on GitHub** button in GitHub Desktop to go to your repository on GitHub and confirm that your changes are visible.
+- While videos remain, repeat with next video.
 
 </details></p>
 
