@@ -8,7 +8,6 @@ After completing the lesson:
 
 1. Make sure that you have:
    - Commited your changes to the **{{site.data.assignment.git-curr-branch}}** branch.
-   - Merged the **{{site.data.assignment.git-curr-branch}}** branch into your **master** branch.
    - Pushed your work to GitHub.
    - Confirmed that you see your changes on GitHub.
 1. Then, make a copy of the [submission template][template].
